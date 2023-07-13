@@ -1,2 +1,2 @@
-# Astera-CLientLeak
+# Astera-ClientLeak
 Shitty Oyvey Paste 
